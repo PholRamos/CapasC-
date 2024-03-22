@@ -11,9 +11,10 @@ namespace CapaDatos
     /// </summary>
     internal class Conexion
     {
-        public static string Cn = 
-            "Data Source=instructorl1\\MSSQLSERVER02; " +
+        public static string Cn =
+            "Data Source=Liu-Desarrollo; " +
             "Initial Catalog =DB_Clinica; " +
-            "Integrated Security=true";
+            "Integrated Security=true;"+
+            "TrustServerCertificate=True";
     }
 }

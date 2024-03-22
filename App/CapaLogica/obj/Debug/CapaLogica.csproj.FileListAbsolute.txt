@@ -7,3 +7,12 @@ E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogic
 E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
 E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.dll
 E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.pdb
+F:\ProyectoLP\App\CapaLogica\bin\Debug\CapaLogica.dll
+F:\ProyectoLP\App\CapaLogica\bin\Debug\CapaLogica.pdb
+F:\ProyectoLP\App\CapaLogica\bin\Debug\CapaDatos.dll
+F:\ProyectoLP\App\CapaLogica\bin\Debug\CapaDatos.pdb
+F:\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+F:\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+F:\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+F:\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.dll
+F:\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.pdb

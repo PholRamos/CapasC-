@@ -4,3 +4,9 @@ E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos
 E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
 E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.dll
 E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.pdb
+F:\ProyectoLP\App\CapaDatos\bin\Debug\CapaDatos.dll
+F:\ProyectoLP\App\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+F:\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+F:\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.dll
+F:\ProyectoLP\App\CapaDatos\obj\Debug\CapaDatos.pdb

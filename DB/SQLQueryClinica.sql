@@ -221,6 +221,174 @@ select
 datediff(year,p.PacienteNacimiento,GETDATE())
 from Paciente p
 
+use DB_Clinica
 
+insert Especialidad
+values('Medicina General'),
+('Medicina Interna'),
+('Cirugìa'),
+('Endocrinologia'),
+('Obstetricia'),
+('Odontologìa')
 
+select * from Especialidad
 
+--PA - ESPECIALISTA
+--CRUD - TOTAL
+CREATE PROC usp_ListaEspecialista
+as
+begin
+begin try
+	select * from Especialista
+end try
+begin catch
+	select ERROR_NUMBER(), ERROR_MESSAGE()
+end catch
+end
+
+create procedure usp_ListaEspecialistaCMP 666
+(@EspecialistaCMP int)
+as
+begin 
+begin try
+	select * from Especialista
+	where EspecialistaCMP=@EspecialistaCMP
+end try
+begin catch
+	select ERROR_NUMBER(), ERROR_MESSAGE()
+end catch
+end
+
+create proc usp_InsertarEspecialista
+(
+	@EspecialistaCMP int,
+	@EspecialistaNombre varchar(30),
+	@EspecialistaApellido varchar(50),
+	@EspecialidadCodigo int
+)
+as
+begin 
+begin try
+	INSERT INTO [dbo].[Especialista]
+           ([EspecialistaCMP]
+           ,[EspecialistaNombre]
+           ,[EspecialistaApellido]
+           ,[EspecialidadCodigo])
+     VALUES
+           (@EspecialistaCMP,@EspecialistaNombre,
+			@EspecialistaApellido,@EspecialidadCodigo)
+end try
+begin catch
+	select ERROR_NUMBER(), ERROR_MESSAGE()
+end catch
+end
+
+usp_InsertarEspecialista 668,'Tetoco','Tu Angulo',5
+
+create proc usp_ActualizarEspecialista
+(
+	@EspecialistaCMP int,
+	@EspecialistaNombre varchar(30),
+	@EspecialistaApellido varchar(50),
+	@EspecialidadCodigo int
+)
+as
+begin 
+	UPDATE [dbo].[Especialista]
+	   SET [EspecialistaCMP] = @EspecialistaCMP
+		  ,[EspecialistaNombre] = @EspecialistaNombre
+		  ,[EspecialistaApellido] = @EspecialistaApellido
+		  ,[EspecialidadCodigo] = @EspecialidadCodigo
+	 WHERE EspecialistaCMP=@EspecialistaCMP
+end
+
+create proc EliminarEspecialista 668
+(
+	@EspecialistaCMP int
+)
+as
+begin 
+begin try
+	DELETE FROM [dbo].[Especialista]
+		  WHERE EspecialistaCMP=@EspecialistaCMP
+end try
+begin catch
+	select ERROR_NUMBER(), ERROR_MESSAGE()
+end catch
+end
+
+select * from Especialista
+
+--PA Historia Clinica
+
+use DB_Clinica
+
+alter proc usp_ListarHHCC
+as
+begin
+begin try
+	select [HHCCCodigo], [HHCCFecha], [PacienteCodigo] 
+	from [dbo].[HHCC]
+	order by HHCCFecha desc 
+end try
+begin catch
+	select ERROR_NUMBER(), ERROR_MESSAGE()
+end catch
+end 
+
+create proc usp_ListarHHCCDni
+(
+	@PacienteCodigo varchar(8)
+)
+as
+begin
+begin try
+	select h.[HHCCCodigo], h.[HHCCFecha], 
+	p.[PacienteCodigo], p.[PacienteNombre], p.[PacienteApellido] 
+	from [dbo].[HHCC] h
+	right join Paciente p 
+	on h.PacienteCodigo=p.PacienteCodigo
+	where p.PacienteCodigo=@PacienteCodigo
+end try
+begin catch
+	select ERROR_NUMBER(), ERROR_MESSAGE()
+end catch
+end 
+
+alter proc usp_InsertarHHCC 
+(	
+    @PacienteCodigo varchar(8)
+)
+as
+begin
+begin try
+INSERT INTO [dbo].[HHCC]
+           ([HHCCFecha]
+           ,[PacienteCodigo])
+     VALUES
+           (GETDATE(),@PacienteCodigo)
+end try
+begin catch
+	select ERROR_NUMBER(), ERROR_MESSAGE()
+end catch
+end
+
+create proc usp_ActualizarHHCC 
+(
+	@HHCCCodigo int,
+	@PacienteCodigo varchar(8)
+)
+as
+begin 
+begin try
+	UPDATE [dbo].[HHCC]
+	SET [HHCCFecha] = getdate()
+	   ,[PacienteCodigo] = @PacienteCodigo
+ WHERE [HHCCCodigo]=@HHCCCodigo
+end try
+begin catch
+	select ERROR_NUMBER(),ERROR_MESSAGE()
+end catch
+end
+
+[HHCCCodigo], [HHCCFecha], [PacienteCodigo]

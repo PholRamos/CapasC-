@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Conexion.cs" />
+    <Compile Include="DEspecialista.cs" />
+    <Compile Include="DHhCc.cs" />
     <Compile Include="DPaciente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

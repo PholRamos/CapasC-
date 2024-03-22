@@ -52,10 +52,27 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>DB_ClinicaDataSetEECC.xsd</DependentUpon>
     </Compile>
+    <Compile Include="DB_ClinicaDataSetEspecialidad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSetEspecialidad.xsd</DependentUpon>
+    </Compile>
     <Compile Include="DB_ClinicaDataSetGenero.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DB_ClinicaDataSetGenero.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuloEspecialista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuloEspecialista.Designer.cs">
+      <DependentUpon>FrmModuloEspecialista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuloHHCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuloHHCC.Designer.cs">
+      <DependentUpon>FrmModuloHHCC.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmModuloPaciente.cs">
       <SubType>Form</SubType>
@@ -82,6 +99,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FrmModuloEspecialista.resx">
+      <DependentUpon>FrmModuloEspecialista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuloHHCC.resx">
+      <DependentUpon>FrmModuloHHCC.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmModuloPaciente.resx">
       <DependentUpon>FrmModuloPaciente.cs</DependentUpon>
     </EmbeddedResource>
@@ -102,6 +125,17 @@
     </None>
     <None Include="DB_ClinicaDataSetEECC.xss">
       <DependentUpon>DB_ClinicaDataSetEECC.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetEspecialidad.xsc">
+      <DependentUpon>DB_ClinicaDataSetEspecialidad.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetEspecialidad.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSetEspecialidad.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSetEspecialidad.xss">
+      <DependentUpon>DB_ClinicaDataSetEspecialidad.xsd</DependentUpon>
     </None>
     <None Include="DB_ClinicaDataSetGenero.xsc">
       <DependentUpon>DB_ClinicaDataSetGenero.xsd</DependentUpon>

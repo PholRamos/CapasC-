@@ -97,8 +97,9 @@
             // 
             this.registroDeHHCCToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("registroDeHHCCToolStripMenuItem.Image")));
             this.registroDeHHCCToolStripMenuItem.Name = "registroDeHHCCToolStripMenuItem";
-            this.registroDeHHCCToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
+            this.registroDeHHCCToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.registroDeHHCCToolStripMenuItem.Text = "Registro de HHCC";
+            this.registroDeHHCCToolStripMenuItem.Click += new System.EventHandler(this.registroDeHHCCToolStripMenuItem_Click);
             // 
             // actoMedicoToolStripMenuItem
             // 
@@ -133,6 +134,7 @@
             this.registroDeEspecialistaToolStripMenuItem.Name = "registroDeEspecialistaToolStripMenuItem";
             this.registroDeEspecialistaToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
             this.registroDeEspecialistaToolStripMenuItem.Text = "Registro de Especialista";
+            this.registroDeEspecialistaToolStripMenuItem.Click += new System.EventHandler(this.registroDeEspecialistaToolStripMenuItem_Click);
             // 
             // reportesToolStripMenuItem
             // 

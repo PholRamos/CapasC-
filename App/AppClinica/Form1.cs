@@ -43,5 +43,19 @@ namespace AppClinica
         {
             timer1.Enabled = true;
         }
+
+        FrmModuloEspecialista frmModuloEspecialista = new FrmModuloEspecialista();
+        private void registroDeEspecialistaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmModuloEspecialista.MdiParent = this;
+            frmModuloEspecialista.Show();
+        }
+
+        FrmModuloHHCC frmModuloHHCC = new FrmModuloHHCC();
+        private void registroDeHHCCToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmModuloHHCC.MdiParent = this;
+            frmModuloHHCC.Show();
+        }
     }
 }
