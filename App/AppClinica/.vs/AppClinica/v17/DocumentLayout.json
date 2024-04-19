@@ -1,94 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\ProyectoLP\\App\\AppClinica\\",
+  "WorkspaceRootPath": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{62FCF4F2-AA5B-4325-97E8-13D5E5A1DC35}|..\\CapaDatos\\CapaDatos.csproj|f:\\proyectos\\proyectolp\\app\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\frmmoduloespecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{62FCF4F2-AA5B-4325-97E8-13D5E5A1DC35}|..\\CapaDatos\\CapaDatos.csproj|f:\\proyectos\\proyectolp\\app\\capadatos\\dpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\frmmodulohhcc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\db_clinicadatasetespecialidad.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\frmmodulopaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\frmmoduloespecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62FCF4F2-AA5B-4325-97E8-13D5E5A1DC35}|..\\CapaDatos\\CapaDatos.csproj|f:\\proyectolp\\app\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\db_clinicadatasetgenero.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}|..\\CapaPresentacion\\CapaPresentacion.csproj|f:\\proyectolp\\app\\capapresentacion\\db_clinicadataseteecc.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\ProyectoLP\\App\\AppClinica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\ProyectoLP\\App\\AppClinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\ProyectoLP\\App\\AppClinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\ProyectoLP\\App\\AppClinica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\frmmodulopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFDBDAFA-2C65-4AD1-B37B-818C14E2F254}|AppClinica.csproj|solutionrelative:frmmodulopacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NPaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NHhCc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DHhCc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NEspecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DEspecialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DPaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\Conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -104,311 +47,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DB_ClinicaDataSetEspecialidad.xsd",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\DB_ClinicaDataSetEspecialidad.xsd",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\DB_ClinicaDataSetEspecialidad.xsd",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\DB_ClinicaDataSetEspecialidad.xsd",
-              "RelativeToolTip": "..\\CapaPresentacion\\DB_ClinicaDataSetEspecialidad.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-03-22T01:08:03.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrmModuloEspecialista.cs",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "RelativeToolTip": "..\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAIwLQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T01:05:14.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmModuloHHCC.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmModuloHHCC.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\CapaPresentacion\\FrmModuloHHCC.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T00:49:11.069Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "app.config",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\app.config",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\app.config",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\app.config",
-              "RelativeToolTip": "..\\CapaPresentacion\\app.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-22T00:47:48.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaDatos\\Conexion.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoLP\\App\\CapaDatos\\Conexion.cs",
               "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaDatos\\Conexion.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoLP\\App\\CapaDatos\\Conexion.cs",
               "RelativeToolTip": "..\\CapaDatos\\Conexion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T00:48:17.208Z",
+              "WhenOpened": "2024-03-15T04:46:58.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrmModuloEspecialista.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\CapaPresentacion\\FrmModuloEspecialista.cs [Dise\u00F1o]",
+              "Title": "DPaciente.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoLP\\App\\CapaDatos\\DPaciente.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\DPaciente.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoLP\\App\\CapaDatos\\DPaciente.cs",
+              "RelativeToolTip": "..\\CapaDatos\\DPaciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T00:49:00.233Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-15T04:42:25.721Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "FrmModuloPaciente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmModuloPaciente.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\CapaPresentacion\\FrmModuloPaciente.cs [Dise\u00F1o]",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAvwKoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T00:49:12.481Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-03-15T04:16:54.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DB_ClinicaDataSetEECC.xsd",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\DB_ClinicaDataSetEECC.xsd",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\DB_ClinicaDataSetEECC.xsd",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\DB_ClinicaDataSetEECC.xsd",
-              "RelativeToolTip": "..\\CapaPresentacion\\DB_ClinicaDataSetEECC.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-03-22T00:50:33.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DB_ClinicaDataSetGenero.xsd",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\CapaPresentacion\\DB_ClinicaDataSetGenero.xsd",
-              "RelativeDocumentMoniker": "..\\CapaPresentacion\\DB_ClinicaDataSetGenero.xsd",
-              "ToolTip": "F:\\ProyectoLP\\App\\CapaPresentacion\\DB_ClinicaDataSetGenero.xsd",
-              "RelativeToolTip": "..\\CapaPresentacion\\DB_ClinicaDataSetGenero.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2024-03-22T00:50:45.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FrmModuloPaciente.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T14:02:07.889Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.config",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\AppClinica\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "F:\\ProyectoLP\\App\\AppClinica\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-21T19:02:30.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FrmModuloHHCC.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAawG0AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:46:28.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FrmModuloPaciente.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.cs",
-              "ViewState": "AQIAALgAAAAAAAAAAAASwFsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T14:08:44.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FrmModuloEspecialista.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T13:11:59.567Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FrmModuloEspecialista.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloEspecialista.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAWwBcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T15:53:00.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\AppClinica\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\AppClinica\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T14:38:25.88Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FrmModuloHHCC.cs [Dise\u00F1o]",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloHHCC.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:41:22.599Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\AppClinica\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\AppClinica\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAIA7wDkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:37:02.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
               "Title": "NPaciente.cs",
               "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NPaciente.cs",
               "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NPaciente.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T22:35:25.588Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "NHhCc.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NHhCc.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NHhCc.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowCwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:33:29.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DHhCc.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DHhCc.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DHhCc.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAgwJYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T20:18:11.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "NEspecialista.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NEspecialista.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\NEspecialista.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T15:35:38.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DEspecialista.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DEspecialista.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DEspecialista.cs",
-              "ViewState": "AQIAAMIAAAAAAAAAAAAswNcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T14:32:43.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 7,
               "Title": "DPaciente.cs",
               "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DPaciente.cs",
               "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\DPaciente.cs",
-              "ViewState": "AQIAAAIBAAAAAAAAAAAiwBEBAAAWAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T20:12:11.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 8,
               "Title": "Conexion.cs",
               "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\Conexion.cs",
               "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\Conexion.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T16:02:22.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\Class1.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T13:56:51.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FrmModuloPaciente.Designer.cs",
-              "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.Designer.cs",
-              "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaPresentacion\\FrmModuloPaciente.Designer.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAlwH8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:13:15.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\Class1.cs",
               "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaLogica\\Class1.cs",
@@ -418,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\Class1.cs",
               "ToolTip": "E:\\SENATI\\PlanSesion20204-1\\ING-SOFT-SEMESTRE-IV\\2-LP-3\\ProyectoLP\\App\\CapaDatos\\Class1.cs",
@@ -428,15 +137,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\ProyectoLP\\App\\AppClinica\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\ProyectoLP\\App\\AppClinica\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "DocumentIndex": 5,
+              "Title": "FrmModuloPacientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\FrmModuloPacientes.cs",
+              "RelativeDocumentMoniker": "FrmModuloPacientes.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\FrmModuloPacientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmModuloPacientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T14:35:45.065Z"
+              "WhenOpened": "2024-03-14T15:41:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAvwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:37:02.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Proyectos\\ProyectoLP\\App\\AppClinica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T14:38:25.88Z"
             }
           ]
         }

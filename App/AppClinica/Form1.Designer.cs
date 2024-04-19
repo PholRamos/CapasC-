@@ -42,10 +42,12 @@
             this.reportesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.fecha = new System.Windows.Forms.ToolStripStatusLabel();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
+            this.hora = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripStatusLabel2 = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripProgressBar1 = new System.Windows.Forms.ToolStripProgressBar();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -97,9 +99,8 @@
             // 
             this.registroDeHHCCToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("registroDeHHCCToolStripMenuItem.Image")));
             this.registroDeHHCCToolStripMenuItem.Name = "registroDeHHCCToolStripMenuItem";
-            this.registroDeHHCCToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.registroDeHHCCToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
             this.registroDeHHCCToolStripMenuItem.Text = "Registro de HHCC";
-            this.registroDeHHCCToolStripMenuItem.Click += new System.EventHandler(this.registroDeHHCCToolStripMenuItem_Click);
             // 
             // actoMedicoToolStripMenuItem
             // 
@@ -134,7 +135,6 @@
             this.registroDeEspecialistaToolStripMenuItem.Name = "registroDeEspecialistaToolStripMenuItem";
             this.registroDeEspecialistaToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
             this.registroDeEspecialistaToolStripMenuItem.Text = "Registro de Especialista";
-            this.registroDeEspecialistaToolStripMenuItem.Click += new System.EventHandler(this.registroDeEspecialistaToolStripMenuItem_Click);
             // 
             // reportesToolStripMenuItem
             // 
@@ -156,14 +156,32 @@
             // statusStrip1
             // 
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fecha,
+            this.hora,
             this.toolStripStatusLabel1,
             this.toolStripStatusLabel2,
             this.toolStripProgressBar1});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 646);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 487);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(1027, 22);
             this.statusStrip1.TabIndex = 2;
             this.statusStrip1.Text = "statusStrip1";
+            this.statusStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.statusStrip1_ItemClicked);
+            // 
+            // fecha
+            // 
+            this.fecha.Name = "fecha";
+            this.fecha.Size = new System.Drawing.Size(0, 17);
+            // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // hora
+            // 
+            this.hora.LinkVisited = true;
+            this.hora.Name = "hora";
+            this.hora.Size = new System.Drawing.Size(0, 17);
             // 
             // toolStripStatusLabel1
             // 
@@ -181,22 +199,20 @@
             // 
             this.toolStripProgressBar1.Name = "toolStripProgressBar1";
             this.toolStripProgressBar1.Size = new System.Drawing.Size(100, 16);
-            // 
-            // timer1
-            // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            this.toolStripProgressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1027, 668);
+            this.ClientSize = new System.Drawing.Size(1027, 509);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Sistema Principal de Diagnóstico Médico";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
@@ -222,10 +238,12 @@
         private System.Windows.Forms.ToolStripMenuItem registroDeEspecialistaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem reportesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
+        private System.Windows.Forms.ToolStripStatusLabel fecha;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.ToolStripStatusLabel hora;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel2;
         private System.Windows.Forms.ToolStripProgressBar toolStripProgressBar1;
-        private System.Windows.Forms.Timer timer1;
     }
 }
 

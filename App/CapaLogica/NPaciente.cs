@@ -11,10 +11,9 @@ namespace CapaLogica
 {
     public class NPaciente
     {
-        public static string Insertar(string pacientecodigo,string pacientenombre, string pacienteapellido, string pacientedireccion, int pacientetelefono,    string pacientenacimiento, int eecccodigo, int generocodigo)
+        public static string Insertar(string pacientecodigo,string pacientenombre, string pacienteapellido,    string pacientedireccion, int pacientetelefono,    string pacientenacimiento, int eecccodigo, int generocodigo)
         {
             DPaciente ObjPaciente = new DPaciente();
-
             ObjPaciente.PacienteCodigo = pacientecodigo;
             ObjPaciente.PacienteNombre = pacientenombre;
             ObjPaciente.PacienteApellido = pacienteapellido;
@@ -30,7 +29,6 @@ namespace CapaLogica
         public static string Actualizar(string pacientecodigo, string pacientenombre, string pacienteapellido, string pacientedireccion, int pacientetelefono, string pacientenacimiento, int eecccodigo, int generocodigo)
         {
             DPaciente ObjPaciente = new DPaciente();
-
             ObjPaciente.PacienteCodigo = pacientecodigo;
             ObjPaciente.PacienteNombre = pacientenombre;
             ObjPaciente.PacienteApellido = pacienteapellido;
@@ -43,27 +41,12 @@ namespace CapaLogica
             return ObjPaciente.Actualizar(ObjPaciente);
         }
 
-        public static string Eliminar(string pacientecodigo)
+        public static string Eliminar(string pacientecodigo, string pacientenombre, string pacienteapellido, string pacientedireccion, int pacientetelefono, string pacientenacimiento, int eecccodigo, int generocodigo)
         {
             DPaciente ObjPaciente = new DPaciente();
-
             ObjPaciente.PacienteCodigo = pacientecodigo;            
 
             return ObjPaciente.Eliminar(ObjPaciente);
-        }
-
-        public static DataTable ListarPaciente()
-        {
-            return new DPaciente().ListarPaciente();
-        }       
-
-        public static DataTable ListarPacienteDNI(string pacientecodigo) 
-        { 
-            DPaciente ObjPaciente=new DPaciente();
-
-            ObjPaciente.PacienteCodigo = pacientecodigo;
-
-            return ObjPaciente.ListarPacienteDNI(ObjPaciente);
         }
     }
 }

@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5E1F0703-282E-426E-9BAB-96FBFA3D85EE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DB_ClinicaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSetEECC.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSetEECC.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSetEspecialidad.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSetEspecialidad.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_ClinicaDataSetGenero.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_ClinicaDataSetGenero.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHHCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHHCC.Designer.cs">
+      <DependentUpon>FrmHHCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuloEspecialista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuloEspecialista.Designer.cs">
+      <DependentUpon>FrmModuloEspecialista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModuloPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuloPaciente.Designer.cs">
+      <DependentUpon>FrmModuloPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
+      <Project>{65d77cc5-2998-4485-84c7-2a73589b7925}</Project>
+      <Name>CapaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmHHCC.resx">
+      <DependentUpon>FrmHHCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuloEspecialista.resx">
+      <DependentUpon>FrmModuloEspecialista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuloPaciente.resx">
+      <DependentUpon>FrmModuloPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DB_ClinicaDataSet.xsc">
+      <DependentUpon>DB_ClinicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet.xss">
+      <DependentUpon>DB_ClinicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet1.xsc">
+      <DependentUpon>DB_ClinicaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet1.xss">
+      <DependentUpon>DB_ClinicaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet2.xsc">
+      <DependentUpon>DB_ClinicaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet2.xss">
+      <DependentUpon>DB_ClinicaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet3.xsc">
+      <DependentUpon>DB_ClinicaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet3.xss">
+      <DependentUpon>DB_ClinicaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet4.xsc">
+      <DependentUpon>DB_ClinicaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet4.xss">
+      <DependentUpon>DB_ClinicaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet5.xsc">
+      <DependentUpon>DB_ClinicaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet5.xss">
+      <DependentUpon>DB_ClinicaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet6.xsc">
+      <DependentUpon>DB_ClinicaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet6.xss">
+      <DependentUpon>DB_ClinicaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet7.xsc">
+      <DependentUpon>DB_ClinicaDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSet7.xss">
+      <DependentUpon>DB_ClinicaDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetEECC.xsc">
+      <DependentUpon>DB_ClinicaDataSetEECC.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetEECC.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSetEECC.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSetEECC.xss">
+      <DependentUpon>DB_ClinicaDataSetEECC.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetEspecialidad.xsc">
+      <DependentUpon>DB_ClinicaDataSetEspecialidad.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetEspecialidad.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSetEspecialidad.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSetEspecialidad.xss">
+      <DependentUpon>DB_ClinicaDataSetEspecialidad.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetGenero.xsc">
+      <DependentUpon>DB_ClinicaDataSetGenero.xsd</DependentUpon>
+    </None>
+    <None Include="DB_ClinicaDataSetGenero.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_ClinicaDataSetGenero.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_ClinicaDataSetGenero.xss">
+      <DependentUpon>DB_ClinicaDataSetGenero.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

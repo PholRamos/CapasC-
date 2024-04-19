@@ -1,0 +1,493 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloHHCC.resources
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.dll
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.dll
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.pdb
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.pdb
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloHHCC.resources
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+H:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\x86\SqlServerSpatial160.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\x64\SqlServerSpatial160.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\EnvDTE.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\stdole.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.pdb
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloHHCC.resources
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\x86\SqlServerSpatial160.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\x64\SqlServerSpatial160.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\EnvDTE.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\stdole.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\EnvDTE80.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\VSLangProj.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\VSLangProj80.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.Build.Framework.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Interop.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\VSLangProj2.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\EnvDTE.xml
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\EnvDTE80.xml
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\VSLangProj.xml
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\VSLangProj80.xml
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\VSLangProj2.xml
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloHHCC.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App22032024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloActoMedico.resources
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloActoMedico.resources
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloHHCC.resources
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\x86\SqlServerSpatial160.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\x64\SqlServerSpatial160.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\EnvDTE.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\stdole.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.pdb
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.pdb
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\App04042024\CapaPresentacion\bin\Debug\x86\SqlServerSpatial160.dll
+E:\App04042024\CapaPresentacion\bin\Debug\x64\SqlServerSpatial160.dll
+E:\App04042024\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+E:\App04042024\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\App04042024\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\App04042024\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\App04042024\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\App04042024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\App04042024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\App04042024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\App04042024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\App04042024\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\App04042024\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\App04042024\CapaPresentacion\bin\Debug\EnvDTE.dll
+E:\App04042024\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\App04042024\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\App04042024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloActoMedico.resources
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloHHCC.resources
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\App04042024\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\x86\SqlServerSpatial160.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\x64\SqlServerSpatial160.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\MLModelInfluenza.mlnet
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CapaPresentacion.dll.config
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.Bcl.Numerics.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.Core.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.CpuMath.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.Data.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.DataView.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.FastTree.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.KMeansClustering.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.PCA.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.StandardTrainers.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.Transforms.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Newtonsoft.Json.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Buffers.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.CodeDom.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Collections.Immutable.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Memory.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Numerics.Tensors.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Numerics.Vectors.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Threading.Channels.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\EnvDTE.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\stdole.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.Bcl.Numerics.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.Core.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.CpuMath.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.Data.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.DataView.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.FastTree.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.KMeansClustering.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.PCA.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.StandardTrainers.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Microsoft.ML.Transforms.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\Newtonsoft.Json.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Buffers.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Collections.Immutable.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Memory.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Numerics.Tensors.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Numerics.Vectors.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Threading.Channels.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloActoMedico.resources
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloHHCC.resources
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\App04042024 - copia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\FastTreeNative.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\LdaNative.dll
+E:\App04042024 - copia\CapaPresentacion\bin\Debug\CpuMathNative.dll

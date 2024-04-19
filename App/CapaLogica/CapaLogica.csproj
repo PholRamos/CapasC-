@@ -42,8 +42,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="NEspecialista.cs" />
-    <Compile Include="NHhCc.cs" />
     <Compile Include="NPaciente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

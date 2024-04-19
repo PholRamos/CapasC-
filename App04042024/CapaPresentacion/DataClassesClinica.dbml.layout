@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClassesClinica">
+  <DataContextMoniker Name="/DataClassesClinicaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6b31a118-84ad-4e4f-b432-1e13cc86abbf" absoluteBounds="1, 1.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DataClassesClinicaDataContext/Paciente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e808038f-2785-4d7e-bb1c-61b641c62d5d" absoluteBounds="1.0150000000000001, 1.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4ebffc28-dd39-4025-a393-694b87567a88" absoluteBounds="4, 2.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClassesClinicaDataContext/HHCC" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fa86952f-bb83-4203-bbcc-ae58621efb6b" absoluteBounds="4.015, 2.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3 : 2.94314697265625); (4 : 2.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesClinicaDataContext/Paciente/Paciente_HHCC" />
+      <nodes>
+        <classShapeMoniker Id="6b31a118-84ad-4e4f-b432-1e13cc86abbf" />
+        <classShapeMoniker Id="4ebffc28-dd39-4025-a393-694b87567a88" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="ad46cb7d-0ff8-49f8-8c0b-b7c4bea0e385" absoluteBounds="3.75, 4.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/DataClassesClinicaDataContext/ActoMedico" />
+      <nestedChildShapes>
+        <elementListCompartment Id="63a24c80-4b9b-4199-8f10-9cde3b7bc736" absoluteBounds="3.765, 4.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.875 : 3.6362939453125); (4.875 : 4.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesClinicaDataContext/HHCC/HHCC_ActoMedico" />
+      <nodes>
+        <classShapeMoniker Id="4ebffc28-dd39-4025-a393-694b87567a88" />
+        <classShapeMoniker Id="ad46cb7d-0ff8-49f8-8c0b-b7c4bea0e385" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="6b265a46-6d44-499a-8281-f83b0903f128" absoluteBounds="7.25, 4.125, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DataClassesClinicaDataContext/ActoMedicoDetalle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0a30c0ba-1c03-4d9c-8ded-e45eaed2e85a" absoluteBounds="7.265, 4.585, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.75 : 5.13544840494792); (7.25 : 5.13544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClassesClinicaDataContext/ActoMedico/ActoMedico_ActoMedicoDetalle" />
+      <nodes>
+        <classShapeMoniker Id="ad46cb7d-0ff8-49f8-8c0b-b7c4bea0e385" />
+        <classShapeMoniker Id="6b265a46-6d44-499a-8281-f83b0903f128" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

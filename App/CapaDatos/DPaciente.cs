@@ -229,64 +229,66 @@ namespace CapaDatos
         /// </summary>
         /// <returns></returns>
         public DataTable ListarPaciente()
-        {
-            DataTable dtResultado = new DataTable("paciente");
+        { 
+            DataTable DtResultado = new DataTable("paciente");
+            SqlConnection SqlCon = new SqlConnection(Conexion.Cn);
+            try {
+                SqlCon.ConnectionString=Conexion.Cn;
+                SqlCommand SqlCmd = new SqlCommand();
+                SqlCmd.Connection = SqlCon;
+                SqlCmd.CommandText = "usp_ListarPaciente";
+                SqlCmd.CommandType= CommandType.StoredProcedure;
 
-            using (SqlConnection sqlCon = new SqlConnection(Conexion.Cn))
+                SqlDataAdapter SqlDat = new SqlDataAdapter();
+                SqlDat.Fill(DtResultado);
+            } 
+            catch (Exception ex) {
+                DtResultado = null;
+            }
+            finally
             {
-                try
-                {
-                    SqlCommand sqlCmd = new SqlCommand("usp_ListarPaciente", sqlCon);
-                    sqlCmd.CommandType = CommandType.StoredProcedure;
-
-                    SqlDataAdapter sqlDat = new SqlDataAdapter(sqlCmd);
-                    sqlDat.Fill(dtResultado);
-                }
-                catch (Exception ex)
-                {
-                    // Log the exception for further investigation
-                    Console.WriteLine("Error al obtener lista de pacientes: " + ex.Message);
-                    dtResultado = null;
-                }
+                if (SqlCon.State == ConnectionState.Open) { SqlCon.Close(); }
             }
 
-            return dtResultado;
+            return DtResultado;
         }
 
         /// <summary>
         /// Metodo para buscar pacientes por DNI
         /// </summary>
         /// <returns></returns>
-        public DataTable ListarPacienteDNI(DPaciente Paciente)
+        public DataTable ListarPacienteDNI(DPaciente Paciente) 
         {
-            DataTable dtResultado = new DataTable("paciente");
-
-            using (SqlConnection sqlCon = new SqlConnection(Conexion.Cn))
+            DataTable DtResultado = new DataTable("paciente");
+            SqlConnection SqlCon = new SqlConnection(Conexion.Cn);
+            try
             {
-                try
-                {
-                    SqlCommand sqlCmd = new SqlCommand("usp_ListarPacienteDNI", sqlCon);
-                    sqlCmd.CommandType = CommandType.StoredProcedure;
+                SqlCon.ConnectionString = Conexion.Cn;
+                SqlCommand SqlCmd = new SqlCommand();
+                SqlCmd.Connection = SqlCon;
+                SqlCmd.CommandText = "usp_ListarPacienteDNI";
+                SqlCmd.CommandType = CommandType.StoredProcedure;
 
-                    SqlParameter sqlParam = new SqlParameter("@PacienteCodigo", SqlDbType.VarChar, 8)
-                    {
-                        Value = Paciente.PacienteCodigo
-                    };
-                    sqlCmd.Parameters.Add(sqlParam);
+                SqlParameter ParPacienteCodigo = new SqlParameter();
+                ParPacienteCodigo.ParameterName = "@PacienteCodigo";
+                ParPacienteCodigo.SqlDbType = SqlDbType.VarChar;
+                ParPacienteCodigo.Size = 8;
+                ParPacienteCodigo.Value = Paciente.PacienteCodigo;
+                SqlCmd.Parameters.Add(ParPacienteCodigo);
 
-                    SqlDataAdapter sqlDat = new SqlDataAdapter(sqlCmd);
-                    sqlDat.Fill(dtResultado);
-                }
-                catch (Exception ex)
-                {
-                    // Log the exception for further investigation
-                    Console.WriteLine("Error al obtener paciente por DNI: " + ex.Message);
-                    dtResultado = null;
-                }
+                SqlDataAdapter SqlDat = new SqlDataAdapter();
+                SqlDat.Fill(DtResultado);
+            }
+            catch (Exception ex)
+            {
+                DtResultado = null;
+            }
+            finally
+            {
+                if (SqlCon.State == ConnectionState.Open) { SqlCon.Close(); }
             }
 
-            return dtResultado;
+            return DtResultado;
         }
-
     }
 }

@@ -1,0 +1,478 @@
+﻿{
+  "Scenario": "Classification",
+  "DataSource": {
+    "Version": 3,
+    "EscapeCharacter": "\"",
+    "ReadMultiLines": false,
+    "KeepDiacritics": false,
+    "KeepPunctuations": false,
+    "AllowQuoting": false,
+    "Type": "TabularFile",
+    "FilePath": "E:\\App04042024 - copia\\DataSetInfluenza.csv",
+    "Delimiter": ",",
+    "DecimalMarker": ".",
+    "HasHeader": true,
+    "ColumnProperties": [
+      {
+        "ColumnName": "Fiebre",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Tos",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Dolor de cabeza",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Dolor muscular",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Malestar general",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Dolor de garganta",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Secreción nasal",
+        "ColumnPurpose": "Feature",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      },
+      {
+        "ColumnName": "Influenza",
+        "ColumnPurpose": "Label",
+        "ColumnDataFormat": "String",
+        "IsCategorical": false,
+        "Type": "Column",
+        "Version": 5
+      }
+    ]
+  },
+  "Environment": {
+    "Type": "LocalCPU",
+    "Version": 1
+  },
+  "RunHistory": {
+    "Version": 3,
+    "Type": "Result",
+    "Trials": [
+      {
+        "Version": 1,
+        "Type": "Trial",
+        "TrainerName": "FastTreeOva",
+        "Score": 0.5,
+        "RuntimeInSeconds": 1.226,
+        "Parameter": {
+          "_SCHEMA_": "e0 * e1 * e2 * e3 * e4 * e5 * e6 * e7 * e8 * e9 * e16",
+          "e0": {
+            "InputColumnName": "Fiebre",
+            "OutputColumnName": "Fiebre"
+          },
+          "e1": {
+            "InputColumnName": "Tos",
+            "OutputColumnName": "Tos"
+          },
+          "e16": {
+            "OutputColumnName": "PredictedLabel",
+            "InputColumnName": "PredictedLabel"
+          },
+          "e2": {
+            "InputColumnName": "Dolor de cabeza",
+            "OutputColumnName": "Dolor de cabeza"
+          },
+          "e3": {
+            "InputColumnName": "Dolor muscular",
+            "OutputColumnName": "Dolor muscular"
+          },
+          "e4": {
+            "InputColumnName": "Malestar general",
+            "OutputColumnName": "Malestar general"
+          },
+          "e5": {
+            "InputColumnName": "Dolor de garganta",
+            "OutputColumnName": "Dolor de garganta"
+          },
+          "e6": {
+            "InputColumnName": "Secreción nasal",
+            "OutputColumnName": "Secreción nasal"
+          },
+          "e7": {
+            "InputColumnNames": [
+              "Fiebre",
+              "Tos",
+              "Dolor de cabeza",
+              "Dolor muscular",
+              "Malestar general",
+              "Dolor de garganta",
+              "Secreción nasal"
+            ],
+            "OutputColumnName": "Features"
+          },
+          "e8": {
+            "OutputColumnName": "Influenza",
+            "InputColumnName": "Influenza",
+            "AddKeyValueAnnotationsAsText": false
+          },
+          "e9": {
+            "NumberOfLeaves": 4,
+            "MinimumExampleCountPerLeaf": 20,
+            "NumberOfTrees": 4,
+            "MaximumBinCountPerFeature": 254,
+            "FeatureFraction": 1.0,
+            "LearningRate": 0.099999999999999978,
+            "LabelColumnName": "Influenza",
+            "FeatureColumnName": "Features",
+            "DiskTranspose": false
+          }
+        }
+      },
+      {
+        "Version": 1,
+        "Type": "Trial",
+        "TrainerName": "FastTreeOva",
+        "Score": 0.5,
+        "RuntimeInSeconds": 0.635,
+        "Parameter": {
+          "_SCHEMA_": "e0 * e1 * e2 * e3 * e4 * e5 * e6 * e7 * e8 * e9 * e16",
+          "e0": {
+            "InputColumnName": "Fiebre",
+            "OutputColumnName": "Fiebre"
+          },
+          "e1": {
+            "InputColumnName": "Tos",
+            "OutputColumnName": "Tos"
+          },
+          "e16": {
+            "OutputColumnName": "PredictedLabel",
+            "InputColumnName": "PredictedLabel"
+          },
+          "e2": {
+            "InputColumnName": "Dolor de cabeza",
+            "OutputColumnName": "Dolor de cabeza"
+          },
+          "e3": {
+            "InputColumnName": "Dolor muscular",
+            "OutputColumnName": "Dolor muscular"
+          },
+          "e4": {
+            "InputColumnName": "Malestar general",
+            "OutputColumnName": "Malestar general"
+          },
+          "e5": {
+            "InputColumnName": "Dolor de garganta",
+            "OutputColumnName": "Dolor de garganta"
+          },
+          "e6": {
+            "InputColumnName": "Secreción nasal",
+            "OutputColumnName": "Secreción nasal"
+          },
+          "e7": {
+            "InputColumnNames": [
+              "Fiebre",
+              "Tos",
+              "Dolor de cabeza",
+              "Dolor muscular",
+              "Malestar general",
+              "Dolor de garganta",
+              "Secreción nasal"
+            ],
+            "OutputColumnName": "Features"
+          },
+          "e8": {
+            "OutputColumnName": "Influenza",
+            "InputColumnName": "Influenza",
+            "AddKeyValueAnnotationsAsText": false
+          },
+          "e9": {
+            "NumberOfLeaves": 6,
+            "MinimumExampleCountPerLeaf": 19,
+            "NumberOfTrees": 4,
+            "MaximumBinCountPerFeature": 182,
+            "FeatureFraction": 0.95931003840773887,
+            "LearningRate": 0.17331070422214381,
+            "LabelColumnName": "Influenza",
+            "FeatureColumnName": "Features",
+            "DiskTranspose": false
+          }
+        }
+      },
+      {
+        "Version": 1,
+        "Type": "Trial",
+        "TrainerName": "FastTreeOva",
+        "Score": 0.5,
+        "RuntimeInSeconds": 0.74,
+        "Parameter": {
+          "_SCHEMA_": "e0 * e1 * e2 * e3 * e4 * e5 * e6 * e7 * e8 * e9 * e16",
+          "e0": {
+            "InputColumnName": "Fiebre",
+            "OutputColumnName": "Fiebre"
+          },
+          "e1": {
+            "InputColumnName": "Tos",
+            "OutputColumnName": "Tos"
+          },
+          "e16": {
+            "OutputColumnName": "PredictedLabel",
+            "InputColumnName": "PredictedLabel"
+          },
+          "e2": {
+            "InputColumnName": "Dolor de cabeza",
+            "OutputColumnName": "Dolor de cabeza"
+          },
+          "e3": {
+            "InputColumnName": "Dolor muscular",
+            "OutputColumnName": "Dolor muscular"
+          },
+          "e4": {
+            "InputColumnName": "Malestar general",
+            "OutputColumnName": "Malestar general"
+          },
+          "e5": {
+            "InputColumnName": "Dolor de garganta",
+            "OutputColumnName": "Dolor de garganta"
+          },
+          "e6": {
+            "InputColumnName": "Secreción nasal",
+            "OutputColumnName": "Secreción nasal"
+          },
+          "e7": {
+            "InputColumnNames": [
+              "Fiebre",
+              "Tos",
+              "Dolor de cabeza",
+              "Dolor muscular",
+              "Malestar general",
+              "Dolor de garganta",
+              "Secreción nasal"
+            ],
+            "OutputColumnName": "Features"
+          },
+          "e8": {
+            "OutputColumnName": "Influenza",
+            "InputColumnName": "Influenza",
+            "AddKeyValueAnnotationsAsText": false
+          },
+          "e9": {
+            "NumberOfLeaves": 4,
+            "MinimumExampleCountPerLeaf": 20,
+            "NumberOfTrees": 4,
+            "MaximumBinCountPerFeature": 353,
+            "FeatureFraction": 0.99999999,
+            "LearningRate": 0.057699840554466461,
+            "LabelColumnName": "Influenza",
+            "FeatureColumnName": "Features",
+            "DiskTranspose": false
+          }
+        }
+      },
+      {
+        "Version": 1,
+        "Type": "Trial",
+        "TrainerName": "FastTreeOva",
+        "Score": 0.5,
+        "RuntimeInSeconds": 0.752,
+        "Parameter": {
+          "_SCHEMA_": "e0 * e1 * e2 * e3 * e4 * e5 * e6 * e7 * e8 * e9 * e16",
+          "e0": {
+            "InputColumnName": "Fiebre",
+            "OutputColumnName": "Fiebre"
+          },
+          "e1": {
+            "InputColumnName": "Tos",
+            "OutputColumnName": "Tos"
+          },
+          "e16": {
+            "OutputColumnName": "PredictedLabel",
+            "InputColumnName": "PredictedLabel"
+          },
+          "e2": {
+            "InputColumnName": "Dolor de cabeza",
+            "OutputColumnName": "Dolor de cabeza"
+          },
+          "e3": {
+            "InputColumnName": "Dolor muscular",
+            "OutputColumnName": "Dolor muscular"
+          },
+          "e4": {
+            "InputColumnName": "Malestar general",
+            "OutputColumnName": "Malestar general"
+          },
+          "e5": {
+            "InputColumnName": "Dolor de garganta",
+            "OutputColumnName": "Dolor de garganta"
+          },
+          "e6": {
+            "InputColumnName": "Secreción nasal",
+            "OutputColumnName": "Secreción nasal"
+          },
+          "e7": {
+            "InputColumnNames": [
+              "Fiebre",
+              "Tos",
+              "Dolor de cabeza",
+              "Dolor muscular",
+              "Malestar general",
+              "Dolor de garganta",
+              "Secreción nasal"
+            ],
+            "OutputColumnName": "Features"
+          },
+          "e8": {
+            "OutputColumnName": "Influenza",
+            "InputColumnName": "Influenza",
+            "AddKeyValueAnnotationsAsText": false
+          },
+          "e9": {
+            "NumberOfLeaves": 4,
+            "MinimumExampleCountPerLeaf": 16,
+            "NumberOfTrees": 4,
+            "MaximumBinCountPerFeature": 319,
+            "FeatureFraction": 0.99697952358076825,
+            "LearningRate": 0.14359321289220378,
+            "LabelColumnName": "Influenza",
+            "FeatureColumnName": "Features",
+            "DiskTranspose": false
+          }
+        }
+      },
+      {
+        "Version": 1,
+        "Type": "Trial",
+        "TrainerName": "FastTreeOva",
+        "Score": 0.5,
+        "RuntimeInSeconds": 0.741,
+        "Parameter": {
+          "_SCHEMA_": "e0 * e1 * e2 * e3 * e4 * e5 * e6 * e7 * e8 * e9 * e16",
+          "e0": {
+            "InputColumnName": "Fiebre",
+            "OutputColumnName": "Fiebre"
+          },
+          "e1": {
+            "InputColumnName": "Tos",
+            "OutputColumnName": "Tos"
+          },
+          "e16": {
+            "OutputColumnName": "PredictedLabel",
+            "InputColumnName": "PredictedLabel"
+          },
+          "e2": {
+            "InputColumnName": "Dolor de cabeza",
+            "OutputColumnName": "Dolor de cabeza"
+          },
+          "e3": {
+            "InputColumnName": "Dolor muscular",
+            "OutputColumnName": "Dolor muscular"
+          },
+          "e4": {
+            "InputColumnName": "Malestar general",
+            "OutputColumnName": "Malestar general"
+          },
+          "e5": {
+            "InputColumnName": "Dolor de garganta",
+            "OutputColumnName": "Dolor de garganta"
+          },
+          "e6": {
+            "InputColumnName": "Secreción nasal",
+            "OutputColumnName": "Secreción nasal"
+          },
+          "e7": {
+            "InputColumnNames": [
+              "Fiebre",
+              "Tos",
+              "Dolor de cabeza",
+              "Dolor muscular",
+              "Malestar general",
+              "Dolor de garganta",
+              "Secreción nasal"
+            ],
+            "OutputColumnName": "Features"
+          },
+          "e8": {
+            "OutputColumnName": "Influenza",
+            "InputColumnName": "Influenza",
+            "AddKeyValueAnnotationsAsText": false
+          },
+          "e9": {
+            "NumberOfLeaves": 4,
+            "MinimumExampleCountPerLeaf": 23,
+            "NumberOfTrees": 4,
+            "MaximumBinCountPerFeature": 202,
+            "FeatureFraction": 0.99999999,
+            "LearningRate": 0.069641174527566643,
+            "LabelColumnName": "Influenza",
+            "FeatureColumnName": "Features",
+            "DiskTranspose": false
+          }
+        }
+      }
+    ],
+    "Estimators": {
+      "e0": "FeaturizeText",
+      "e1": "FeaturizeText",
+      "e2": "FeaturizeText",
+      "e3": "FeaturizeText",
+      "e4": "FeaturizeText",
+      "e5": "FeaturizeText",
+      "e6": "FeaturizeText",
+      "e7": "Concatenate",
+      "e8": "MapValueToKey",
+      "e9": "FastTreeOva",
+      "e10": "FastForestOva",
+      "e11": "LightGbmMulti",
+      "e12": "LbfgsLogisticRegressionOva",
+      "e13": "LbfgsMaximumEntropyMulti",
+      "e14": "SdcaMaximumEntropyMulti",
+      "e15": "SdcaLogisticRegressionOva",
+      "e16": "MapKeyToValue"
+    },
+    "Schema": "e0 * e1 * e2 * e3 * e4 * e5 * e6 * e7 * e8 * (e9 + e10 + e11 + e12 + e13 + e14 + e15) * e16",
+    "MetricName": "MacroAccuracy",
+    "ModelFilePath": "E:\\App04042024\\CapaPresentacion\\MLModelClinica.mlnet"
+  },
+  "Type": "TrainingConfig",
+  "Version": 5,
+  "TrainingOption": {
+    "Version": 2,
+    "Subsampling": false,
+    "Type": "ClassificationTrainingOption",
+    "TrainingTime": 20,
+    "LabelColumn": "Influenza",
+    "ValidationOption": {
+      "Version": 0,
+      "Type": "CrossValidationValidationOption",
+      "NumberOfFolds": 5
+    }
+  }
+}

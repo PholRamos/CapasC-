@@ -52,10 +52,19 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmModuloPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModuloPacientes.Designer.cs">
+      <DependentUpon>FrmModuloPacientes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModuloPacientes.resx">
+      <DependentUpon>FrmModuloPacientes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -79,21 +88,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\CapaPresentacion\CapaPresentacion.csproj">
-      <Project>{5e1f0703-282e-426e-9bab-96fbfa3d85ee}</Project>
-      <Name>CapaPresentacion</Name>
-    </ProjectReference>
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Imagenes\acto-medico.png" />
-    <Content Include="Imagenes\actualizar-base-de-datos.png" />
     <Content Include="Imagenes\add.png" />
-    <Content Include="Imagenes\buscar-datos.png" />
+    <Content Include="Imagenes\cruzroja.ico" />
     <Content Include="Imagenes\Doctor.png" />
-    <Content Include="Imagenes\eliminar-datos.png" />
     <Content Include="Imagenes\examen.png" />
-    <Content Include="Imagenes\guardar-datos.png" />
+    <Content Include="Imagenes\IconoPrincipal.png" />
     <Content Include="Imagenes\paciente.png" />
     <Content Include="Imagenes\reportes.png" />
     <Content Include="Imagenes\salir.png" />
